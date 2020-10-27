@@ -1,6 +1,6 @@
 # Hi! I'm Inan!  👋
 
-#### The thing I love most about coding is the ability to do something so special that one may think that it's just purely magic! If you want to know about me just give me a text or something! I'll put my contacts below. 😁 
+#### The thing I love most about coding is the ability to do something so special that one may think that it's just purely magic! If you want to know about me just give me a text or something! You can reach me on [Facebook](https://web.facebook.com/ahnafsadikinan21), [Twitter](https://twitter.com/ahnaf_inan), [Youtube](https://www.youtube.com/channel/UC6PSxCm8fuRo9DxA4pobxMA?view_as=subscriber), [Academia](https://univdhaka.academia.edu/AhnafSadikInan) and [LinkedIn](https://www.linkedin.com/in/ahnaf-sadik-inan-a077a01b1?originalSubdomain=bd). 😁 
 
 #### Currenly I'm working on developing my skills and trying to cope with the meaningless of the universe. I am having to work on my Math major at University as well. So, it's kind of a mess actually. Even so... I'm trying my best! 
 
@@ -16,6 +16,5 @@
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with learning professionally
 - 💬 Ask me about python, JavaScript or any tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/ahnaf_inan)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Redbull gives you wings!
