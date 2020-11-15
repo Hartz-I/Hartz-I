@@ -2,7 +2,7 @@
 
 #### The thing I love most about coding is the ability to do something so special that one may think it's just purely magic! If you want to know about me just give me a text or something! You can reach me on [Facebook](https://web.facebook.com/ahnafsadikinan21), [Twitter](https://twitter.com/ahnaf_inan), [Youtube](https://www.youtube.com/channel/UC6PSxCm8fuRo9DxA4pobxMA?view_as=subscriber), [Academia](https://univdhaka.academia.edu/AhnafSadikInan) and [LinkedIn](https://www.linkedin.com/in/ahnaf-sadik-inan-a077a01b1?originalSubdomain=bd). 😁 
 
-#### Currenly I'm working on developing my skills and trying to cope with the meaninglessness of the universe. I'm also having to work on my Math major at University as well. So, it's kind of a mess actually. Even so... I'm trying my best! 
+#### Currenly I'm working on developing my skills and trying to cope with the meaninglessness of the universe. I'm working on my Math major at University as well. So, it's kind of a mess actually. Even so... I'm trying my best! 
 
 ## Coding/Dev Progress:
  - **Languages I've worked with**: ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
