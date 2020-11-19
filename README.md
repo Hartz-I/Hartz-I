@@ -35,7 +35,7 @@
 - 👯 I’m looking to collaborate on web development
 - 💬 Ask me about python, JavaScript or any tech related stuff
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to drink tea cold!
+- ⚡ Fun fact: I love old movies!
 
 ##### ...and that's the beginning of my story!
 
