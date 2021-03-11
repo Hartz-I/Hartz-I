@@ -31,8 +31,6 @@
 ## Some Stats: 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hartz-I&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hartz-I&layout=compact)
-
 ## Updates:
 - 🔭 I’m currently working on My Game Development Skills
 - 🌱 I’m currently learning Godot
