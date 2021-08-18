@@ -2,7 +2,7 @@
 
 #### The thing I love most about coding is the ability to do something so special that one may think it's just purely magic! If you want to know about me just give me a text or something! You can reach me on [Facebook](https://web.facebook.com/ahnafsadikinan21), [Twitter](https://twitter.com/ahnaf_inan), [Youtube](https://www.youtube.com/channel/UC6PSxCm8fuRo9DxA4pobxMA?view_as=subscriber), [Academia](https://univdhaka.academia.edu/AhnafSadikInan) and [LinkedIn](https://www.linkedin.com/in/ahnaf-sadik-inan-a077a01b1?originalSubdomain=bd). 😁 
 
-## or Find me on my website: [Hartz](https://hartz.live)
+## Or Find me on my website: [Hartz](https://hartz.live)
 
 #### Currenly I'm working on developing my skills and trying to cope with the meaninglessness of the universe. I'm working on my Math major at University as well. So, it's kind of a mess actually. Even so... I'm trying my best! 
 
@@ -24,8 +24,8 @@
  - **Some works done in**:Game Development, Web Development, Competitive programming, OOP, Machine Learning and also Pixel art!
  
 ### Update: 
- - I'm working on my pixel art skills now.
- - I did some extensive work on my CSS skills recently!
+ - Going all the way with React! 😁
+ - Follow me on twitter for daily updates! I'm doing the 100DaysOfCode challange!
 
 ## Interests: 
 ### Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding), Game Art.
