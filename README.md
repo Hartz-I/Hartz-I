@@ -28,7 +28,7 @@
  - Follow me on twitter for daily updates! I'm doing the 100DaysOfCode challange!
 
 ## Interests: 
-### Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding), Game Art.
+### Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding), Game Art, Animation.
 
 ## Hobbies: 
 ### Reading, Trying to make sense out of world history, Playing Guitar, Gaming, Browsing random topics (I don't go out too much!)
@@ -37,7 +37,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hartz-I&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF)
 
 ## Updates:
-- 🔭 I’m currently working on My ReactJS skills. Refining and extending and stuff...
+- 🔭 I’m currently working on My ReactJS skills and looking into animations! 3d or 2d!
 - 🌱 I’m currently learning to use Godot game engine and Piskel art tool
 - 👯 I’m looking to collaborate on web development and game development.
 - 💬 Ask me about python, JavaScript or any tech related stuff.
