@@ -23,9 +23,8 @@
  - **Modules/Frameworks I've used**:ReactJS, Bootsrap, Handlebar, pygame, matplotlib, turi create, graphlab create etc.
  - **Some works done in**:Game Development, Web Development, Competitive programming, OOP, Machine Learning and also Pixel art!
  
-### Update: 
- - Going all the way with React! 😁
- - Follow me on twitter for daily updates! I'm doing the 100DaysOfCode challange!
+### Daily Update: 
+ - Couldn't do much only solved some problems in HackerRank
 
 ## Interests: 
 ### Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding), Game Art, Animation.
