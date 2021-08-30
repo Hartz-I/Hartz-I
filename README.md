@@ -1,10 +1,13 @@
 # Hi! I'm Inan!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### The thing I love most about coding is the ability to do something so special that one may think it's just purely magic! If you want to know about me just give me a text or something! You can reach me on [Facebook](https://web.facebook.com/ahnafsadikinan21), [Twitter](https://twitter.com/ahnaf_inan), [Youtube](https://www.youtube.com/channel/UC6PSxCm8fuRo9DxA4pobxMA?view_as=subscriber), [Academia](https://univdhaka.academia.edu/AhnafSadikInan) and [LinkedIn](https://www.linkedin.com/in/ahnaf-sadik-inan-a077a01b1?originalSubdomain=bd). 😁 
+### You can reach me on [Facebook](https://web.facebook.com/ahnafsadikinan21), [Twitter](https://twitter.com/ahnaf_inan) and [LinkedIn](https://www.linkedin.com/in/ahnaf-sadik-inan-a077a01b1?originalSubdomain=bd). 😁 
 
 ## Or Find me on my website: [Hartz](https://hartz.live)
+ - It was an early project. Looking forward to remake this whole thing with ReactJS
 
-#### Currenly I'm working on developing my skills and trying to cope with the meaninglessness of the universe. I'm working on my Math major at University as well. So, it's kind of a mess actually. Even so... I'm trying my best! 
+#### Also checkout my [Youtube](https://www.youtube.com/channel/UC6PSxCm8fuRo9DxA4pobxMA?view_as=subscriber) and [Academia](https://univdhaka.academia.edu/AhnafSadikInan)
+
+#### Currenly I'm working on developing my skills to pursue a career in CS. Also working on my Math major at University. So far it's going really well. 
 
 ## Coding/Dev Progress:
  - **Languages I've worked with**: ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -20,8 +23,8 @@
  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 
  - **Tools I've used**: VScode, Godot, SublimeText, Mathematica Notebook, Jupyter Notebook, Unity, PyCharm, PyCharm Edu, Python IDLE, Geany, MS Word, git, github, CodeBlocks, Dev++, Piskel etc.
- - **Modules/Frameworks I've used**:ReactJS, Bootsrap, Handlebar, pygame, matplotlib, turi create, graphlab create etc.
- - **Some works done in**:Game Development, Web Development, Competitive programming, OOP, Machine Learning and also Pixel art!
+ - **Modules/Frameworks I've used**: ReactJS, Bootsrap, Handlebar, pygame, matplotlib, turi create, graphlab create etc.
+ - **Some works done in**: Game Development, Front End Development, Competitive programming, OOP, Machine Learning and also Pixel art!
  
 ### Daily Update: 
  - Couldn't do much only solved some problems in HackerRank
@@ -36,8 +39,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hartz-I&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF)
 
 ## Updates:
-- 🔭 I’m currently working on My ReactJS skills and looking into animations! 3d or 2d!
-- 🌱 I’m currently learning to use Godot game engine and Piskel art tool
+- 🔭 Working on the BurgerBuilder Project
+- 🌱 I’m currently working on My ReactJS skills and looking into animations! 3d or 2d!
 - 👯 I’m looking to collaborate on web development and game development.
 - 💬 Ask me about python, JavaScript or any tech related stuff.
 - 😄 Pronouns: He/Him
