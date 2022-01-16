@@ -21,6 +21,7 @@
  ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=mathematica&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
 
  - **Tools I've used**: VScode, Godot, SublimeText, Mathematica Notebook, Jupyter Notebook, Unity, PyCharm, PyCharm Edu, Python IDLE, Geany, MS Word, git, github, CodeBlocks, Dev++, Piskel etc.
  - **Modules/Frameworks I've used**: ReactJS, Bootsrap, Handlebar, pygame, matplotlib, turi create, graphlab create etc.
@@ -39,9 +40,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hartz-I&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF)
 
 ## Updates:
-- 🔭 Working on the BurgerBuilder Project
-- 🌱 I’m currently working on My ReactJS skills and looking into animations! 3d or 2d!
-- 👯 I’m looking to collaborate on web development and game development.
+- 🌱 I’m currently working on Matlab
+- 👯 I’m looking to collaborate on data science, web development and game development.
 - 💬 Ask me about python, JavaScript or any tech related stuff.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love classic movies!
