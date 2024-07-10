@@ -11,6 +11,8 @@
 
 ## Coding/Dev Progress:
  - **Languages I've worked with**: ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=gdscript&logoColor=white&color=2bbc8a)
