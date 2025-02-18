@@ -25,7 +25,7 @@
  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
 
- - **Tools I've used**: VScode, Matlab, Jupyter Notebook, MS Excel, Godot, SublimeText, Mathematica Notebook, Unity, PyCharm, PyCharm Edu, Geany, MS Word, git, github, CodeBlocks, Dev++, Piskel etc.
+ - **Tools I've used**: VScode, Matlab, Jupyter Notebook, MS Excel, Power BI, Godot, SublimeText, Mathematica Notebook, Unity, PyCharm, PyCharm Edu, Geany, MS Word, git, github, CodeBlocks, Dev++, Piskel etc.
  - **Modules/Frameworks I've used**: Pandas, Numpy, Matplotlib, Seaborn, ReactJS, Bootsrap, Handlebar, pygame, turi create, graphlab create etc.
  - **Some works done in**: Data Science, Machine Learning, Game Development, Front End Development, Competitive programming, OOP, and also Pixel art!
  
